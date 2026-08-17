@@ -1,0 +1,33 @@
+{
+  "name": "use-rulecms-example-vue-project",
+  "version": "0.0.0",
+  "private": false,
+  "description": "Demonstration Vue app showing how to integrate RuleCMS widgets using @rulecms/widget-vue",
+  "keywords": [
+    "rulecms",
+    "vue",
+    "widgets",
+    "cms",
+    "demo"
+  ],
+  "author": "RuleCMS Team",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@rulecms/source-components-vue": "^0.1.0",
+    "@rulecms/widget-vue": "^0.1.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.7",
+    "vue-tsc": "^2.2.0"
+  }
+}
