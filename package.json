@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@rulecms/source-components-vue": "^0.4.0",
-    "@rulecms/widget-vue": "^0.6.0",
+    "@rulecms/widget-vue": "^0.7.0",
     "vue": "^3.5.13"
   },
   "devDependencies": {
